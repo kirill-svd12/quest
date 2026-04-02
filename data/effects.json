@@ -1,0 +1,16 @@
+[
+  { "id": "curtains_close", "name": "Шторы закрыть", "type": "curtains", "color": "blue", "handler": "closeCurtains" },
+  { "id": "curtains_open", "name": "Шторы открыть", "type": "curtains", "color": "blue", "handler": "openCurtains" },
+  { "id": "chandelier_off", "name": "Люстра выключить", "type": "light", "color": "red", "handler": "setChandelierOff" },
+  { "id": "chandelier_on", "name": "Люстра включить", "type": "light", "color": "green", "handler": "setChandelierOn" },
+  { "id": "chandelier_blue", "name": "Люстра синий", "type": "light", "color": "blue", "handler": "setChandelierBlue" },
+  { "id": "chandelier_red", "name": "Люстра красный", "type": "light", "color": "red", "handler": "setChandelierRed" },
+  { "id": "chandelier_green", "name": "Люстра зелёный", "type": "light", "color": "green", "handler": "setChandelierGreen" },
+  { "id": "chandelier_blink", "name": "Люстра мигание", "type": "light", "color": "violet", "handler": "setChandelierBlink" },
+  { "id": "desk_lamp_1_toggle", "name": "Настольная лампа 1", "type": "light", "color": "yellow", "handler": "toggleDeskLamp1" },
+  { "id": "desk_lamp_2_toggle", "name": "Настольная лампа 2", "type": "light", "color": "yellow", "handler": "toggleDeskLamp2" },
+  { "id": "fan_toggle", "name": "Вентилятор вкл/выкл", "type": "fan", "color": "teal", "handler": "toggleFan" },
+  { "id": "sharp_wind", "name": "Эффект резкий ветер", "type": "effect", "color": "violet", "handler": "triggerSharpWind" },
+  { "id": "mystic_scene", "name": "Эффект мистическая сцена", "type": "effect", "color": "violet", "handler": "triggerMysticScene" },
+  { "id": "final_mode", "name": "Эффект финал", "type": "effect", "color": "green", "handler": "triggerFinalScene" }
+]

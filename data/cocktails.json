@@ -1,0 +1,5 @@
+[
+  { "id": "cocktail_1", "name": "Коктейль 1", "color": "#fe7b7b", "description": "Ягодный красный микс." },
+  { "id": "cocktail_2", "name": "Коктейль 2", "color": "#6fe0bb", "description": "Освежающий зелёный микс." },
+  { "id": "cocktail_3", "name": "Коктейль 3", "color": "#77b2ff", "description": "Холодный голубой микс." }
+]

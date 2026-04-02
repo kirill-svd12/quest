@@ -1,0 +1,13 @@
+[
+  { "id": "intro", "name": "Стартовая подводка", "category": "start", "color": "blue", "kind": "long", "file": "./assets/audio/intro.mp3", "description": "Главное вступление перед первой сценой." },
+  { "id": "alarm", "name": "Тревога", "category": "alarm", "color": "red", "kind": "long", "file": "./assets/audio/alarm.mp3", "description": "Длинная дорожка тревоги." },
+  { "id": "mystic_whisper", "name": "Мистический шёпот", "category": "mystic", "color": "violet", "kind": "short", "file": "./assets/audio/mystic_whisper.mp3", "description": "Короткий шёпот в момент тайника." },
+  { "id": "mystic_pad", "name": "Мистический фон", "category": "mystic", "color": "violet", "kind": "long", "file": "./assets/audio/mystic_pad.mp3", "description": "Фоновый мистический слой." },
+  { "id": "system_voice_1", "name": "Голос системы 1", "category": "system", "color": "teal", "kind": "short", "file": "./assets/audio/system_voice_1.mp3", "description": "Официальная озвучка системы." },
+  { "id": "system_error", "name": "Ошибка системы", "category": "error", "color": "yellow", "kind": "short", "file": "./assets/audio/system_error.mp3", "description": "Сигнал сбоя или ошибки." },
+  { "id": "hint_1", "name": "Подсказка 1", "category": "hint", "color": "yellow", "kind": "short", "file": "./assets/audio/hint_1.mp3", "description": "Записанная мягкая подсказка." },
+  { "id": "stinger_hit", "name": "Резкий эффект", "category": "fx", "color": "red", "kind": "short", "file": "./assets/audio/stinger_hit.mp3", "description": "Короткий scary hit." },
+  { "id": "wind_burst", "name": "Порыв ветра", "category": "fx", "color": "violet", "kind": "short", "file": "./assets/audio/wind_burst.mp3", "description": "Эффект порыва ветра." },
+  { "id": "victory_voice", "name": "Поздравление системы", "category": "final", "color": "green", "kind": "short", "file": "./assets/audio/victory_voice.mp3", "description": "Короткая победная фраза." },
+  { "id": "final_music", "name": "Музыка после победы", "category": "afterparty", "color": "green", "kind": "long", "file": "./assets/audio/final_music.mp3", "description": "Длинная победная музыка." }
+]
