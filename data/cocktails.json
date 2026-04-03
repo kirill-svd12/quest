@@ -1,5 +1,5 @@
 [
-  { "id": "cocktail_1", "name": "Коктейль 1", "color": "#fe7b7b", "description": "Ягодный красный микс." },
-  { "id": "cocktail_2", "name": "Коктейль 2", "color": "#6fe0bb", "description": "Освежающий зелёный микс." },
-  { "id": "cocktail_3", "name": "Коктейль 3", "color": "#77b2ff", "description": "Холодный голубой микс." }
+  { "id": "cocktail_1", "name": "РљРѕРєС‚РµР№Р»СЊ 1", "color": "#fe7b7b", "description": "РЇРіРѕРґРЅС‹Р№ РєСЂР°СЃРЅС‹Р№ РјРёРєСЃ." },
+  { "id": "cocktail_2", "name": "РљРѕРєС‚РµР№Р»СЊ 2", "color": "#6fe0bb", "description": "РћСЃРІРµР¶Р°СЋС‰РёР№ Р·РµР»С‘РЅС‹Р№ РјРёРєСЃ." },
+  { "id": "cocktail_3", "name": "РљРѕРєС‚РµР№Р»СЊ 3", "color": "#77b2ff", "description": "РҐРѕР»РѕРґРЅС‹Р№ РіРѕР»СѓР±РѕР№ РјРёРєСЃ." }
 ]
